@@ -2,6 +2,7 @@
 Title: Design a civil plan with electrical fittings and fixtures according to BNBC using AutoCAD.
 
 Exp 1:	A Civil Plan of a flat layout covering 1200 SFT (approx.) using AutoCAD 2027 software.
+
 Exp 2: The Fittings for the civil plan, including electrical fittings such as lights, fans, and various sockets, as per BNBC.
 
 The planning and design of a residential building require careful consideration of both its architectural layout and electrical services to ensure comfort, functionality, safety, and efficient use of space. In this practical exercise, a residential flat of approximately 1200 square feet (SFT) has been designed using AutoCAD, followed by the preparation of its electrical fitting layout in accordance with the relevant provisions of the Bangladesh National Building Code (BNBC).
